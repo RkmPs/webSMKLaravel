@@ -10,7 +10,7 @@
 
 <body class="bg-light">
 
-    <header class="bg-primary-custom text-white py-4 mb-4 position-relative">
+    <header class="bg-primary text-white py-4 mb-4 position-relative">
         <div class="container text-center">
             <img src="{{ asset('images/Logo.png') }}" alt="Logo Sekolah" class="position-absolute start-0 ms-4"
                 style="width:60px; height:60px; border-radius:50%; object-fit:cover;">
